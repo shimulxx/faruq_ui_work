@@ -1,0 +1,3 @@
+const kDefaultImageUrl = 'https://phonewallpaperhd.com/wp-content/uploads/2019/03/Game-of-Thrones-8-Season-Wallpaper-for-Phones.jpg';
+const kThirdDefault = 'https://rare-gallery.com/thumbs/335517-Daenerys-Targaryen-Game-of-Thrones-Season-8-4K.jpg';
+const kSecondDefaultImageUrl = 'https://images-na.ssl-images-amazon.com/images/S/pv-target-images/111140b58196c68fce4a9c375933c02e3cf5783623ed989b93689a4932597e6b._UY500_UX667_RI_V_TTW_.jpg';
