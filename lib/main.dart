@@ -2,6 +2,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:faruq_ui_work/constants.dart';
 import 'package:flutter/material.dart';
 
+//work
 void main() {
   runApp(const MyApp());
 }
